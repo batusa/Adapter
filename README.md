@@ -548,4 +548,4 @@ o mesmo, só temos que trocar o adaptador:
 		</body>
 	</html>
 	
-[Nota no Facebook](www.facebook.com/notes/joão-batista-neto/desacoplando-as-bibliotecas-javascript-da-interface-de-usuário/413524222007462)
+[Nota no Facebook](https://www.facebook.com/notes/joão-batista-neto/desacoplando-as-bibliotecas-javascript-da-interface-de-usuário/413524222007462)
